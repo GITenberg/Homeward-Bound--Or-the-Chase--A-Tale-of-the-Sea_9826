@@ -1,5 +1,8 @@
 _repo: Homeward-Bound--Or-the-Chase--A-Tale-of-the-Sea_9826
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -18,6 +21,8 @@ description: Title; Contents; Preface; Chapter I; Chapter II; Chapter III; Chapt
   Chapter XVIII; Chapter XIX; Chapter XX; Chapter XXI; Chapter XXII; Chapter XXIII;
   Chapter XXIV; Chapter XXV; Chapter XXVI; Chapter XXVII; Chapter XXVIII; Chapter
   XXIX; Chapter XXX; Chapter XXXI; Chapter XXXII; Chapter XXXIII; Chapter XXXIV.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9826#Homeward-Bound--Or-the-Chase--A-Tale-of-the-Sea
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
